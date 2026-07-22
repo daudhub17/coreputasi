@@ -1,3 +1,9 @@
+
+
+## Introduction
+
+> **Coreputasi** adalah sebuah proyek yang saya buat sebagai bentuk kumpulan portfolio saya juga dokumentasi track record perjalanan saya pada dunia coding.
+
 # 🚀 Coreputasi
 
 > **Coreputasi** (Core + Reputasi) adalah platform portofolio digital terpadu dan pusat edukasi mandiri. Situs ini dirancang untuk menampilkan berbagai bentuk karya—mulai dari *software development*, dokumen/studi kasus, hingga media digital—sekaligus menjadi wadah berbagi catatan belajar dan dokumentasi teknis secara terbuka.
@@ -18,25 +24,8 @@
 
 ---
 
-## 🏗️ Arsitektur Proyek
 
-```text
-coreputasi/
-├── content/               # Konten berbasis Markdown / MDX
-│   ├── projects/          # Showcase portofolio
-│   │   ├── code/          # Proyek koding & software
-│   │   ├── digital/       # Karya desain & media digital
-│   │   └── docs/          # Dokumen teknis & case studies
-│   └── knowledge/         # Modul belajar & tutorial
-│       ├── notes/         # Catatan & cheatsheet
-│       └── guides/        # Tutorial mendalam
-├── public/                # Asset statis (gambar, PDF, favicon)
-├── src/
-│   ├── components/        # Komponen UI reusabel
-│   ├── layouts/           # Layout halaman (Base, Post, Project)
-│   └── pages/             # Routing halaman utama
-└── README.md
-```
+
 
 ---
 
